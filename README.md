@@ -27,4 +27,8 @@ project-folder/
 ## ▶️ How to Run
 
 Make sure Python is installed, then run:
-```python main.py```
+
+```
+python main.py
+
+```
