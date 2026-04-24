@@ -1,4 +1,4 @@
-🎮# 🎮 Python Mini Games
+##🎮 Python Mini Games
 
 A simple command-line Python project that lets you play multiple mini games from one menu.
 
